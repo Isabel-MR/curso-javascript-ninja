@@ -28,7 +28,7 @@ Onde VALOR é o novo valor da variável.
 */
 
 function adicionarValor() {
-  newvar = 'isabel'
+  newvar = 'gustavo'
   return `O valor da variável agora é ${newvar}`;
 }
 
